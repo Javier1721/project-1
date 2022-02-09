@@ -5,8 +5,9 @@ body{
     background: rgb(23, 26, 199);
     color: white;
     font-family: 'Righteous', cursive;
-    font-size: 115px;
+    font-size: 110px;
     font-weight: 700;
+    text-align: center;
     
     
 }
@@ -15,13 +16,15 @@ main{
     width: 70%;
     margin:auto;
     margin-top: 80px;
- 
+    position: absolute;
+ padding-left: 250px;
 
 }
 .water div {
     margin-top: 80px;
    height: 100vh;
    opacity: 0;
+   position: absolute;
 }
 
 .water div:nth-child(1){
