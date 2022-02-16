@@ -103,6 +103,11 @@ main{
     animation-duration: 5s;
     animation-fill-mode: forwards;
     animation-delay: 70s;
+  }.water div:nth-child(16){
+    animation-name: fade-in-out;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    animation-delay: 74s;
   }
    @keyframes fade-in-out {
        0% {
