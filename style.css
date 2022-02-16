@@ -106,7 +106,7 @@ main{
     animation-fill-mode: forwards;
     animation-delay: 30s;
   }.water div:nth-child(16){
-    animation-duration: 15s;
+    animation-duration: 500s;
     animation-fill-mode: forwards;
     animation-delay: 33s;
    
