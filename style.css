@@ -16,12 +16,9 @@ body{
 main{
     width: 70%;
     margin:auto;
-    margin-top: 80px;
+    margin-top: 200px;
     position: absolute;
- padding-left: 250px;
- padding-top: 250px;
- padding-right: 250px;
- padding-bottom: 250px;
+    position: relative;
 
 }
 .water div {
@@ -110,7 +107,7 @@ main{
     animation-delay: 30s;
   }.water div:nth-child(16){
     animation-name: fade-in-out;
-    animation-duration: 2s;
+    animation-duration: 15s;
     animation-fill-mode: forwards;
     animation-delay: 33s;
    
