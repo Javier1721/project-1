@@ -108,6 +108,7 @@ main{
     animation-duration: 5s;
     animation-fill-mode: forwards;
     animation-delay: 74s;
+    size-adjust: 200px;
   }
    @keyframes fade-in-out {
        0% {
